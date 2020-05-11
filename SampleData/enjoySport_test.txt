@@ -1,0 +1,6 @@
+sunny   cold   high   strong   no
+overcast   mild   normal   weak   yes
+rain    mild   high   weak   yes
+rain    cold   normal   strong   yes
+rain    cold   high   strong   no
+rain    hot   high   weak   no
